@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: RedwoodJS - Build, Lint, Diagnostics, and Tests
-        uses: realStandal/project-ci-action
+        uses: realStandal/project-ci-action@main
